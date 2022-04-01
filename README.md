@@ -36,5 +36,7 @@ For the dataset of request, it contains 10 parts. Id, Platform id, Apperance tim
 
 The real dataset used in the experiments is in folder **Real Data** and the synthetic data is in folder **Syn data**.
 
+To run the experiments on real data, please use the dataset contains the union of three platforms. (i.e. CN01_W and CN01_R)
+
 
 
